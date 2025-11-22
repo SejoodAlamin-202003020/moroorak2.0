@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229284319368",
+    "project_id": "moroorak",
+    "storage_bucket": "moroorak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229284319368:android:f1de9c26d07968a060cf3d",
+        "android_client_info": {
+          "package_name": "moroorak.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7-8JkWmu8L8VU1pm7TymLILt-g8Z7Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

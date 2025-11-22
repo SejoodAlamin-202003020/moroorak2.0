@@ -1,0 +1,5 @@
+- [ ] Update android/settings.gradle.kts: Replace 'dev.flutter.flutter-plugin-loader' with 'dev.flutter.flutter-gradle-plugin' version "1.0.0" apply false
+- [ ] Update android/build.gradle.kts: Remove plugins block; add standard allprojects, rootProject.buildDir, subprojects, and clean task
+- [ ] Update android/gradle/wrapper/gradle-wrapper.properties: Change distributionUrl to 'gradle-8.12-bin.zip'
+- [ ] Run flutter clean
+- [ ] Run flutter build apk to verify
